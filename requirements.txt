@@ -1,0 +1,16 @@
+annotated-types==0.5.0
+certifi==2024.2.2
+charset-normalizer==3.3.2
+greenlet==3.0.3
+idna==3.6
+importlib-metadata==6.7.0
+langchain==0.0.27
+numpy==1.21.6
+pydantic==2.5.3
+pydantic-core==2.14.6
+PyYAML==6.0.1
+requests==2.31.0
+SQLAlchemy==2.0.29
+typing-extensions==4.7.1
+urllib3==2.0.7
+zipp==3.15.0
